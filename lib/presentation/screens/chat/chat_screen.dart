@@ -23,7 +23,7 @@ class ChatScreen extends StatelessWidget {
               backgroundImage: NetworkImage(imageAvatar),
             ),
           ),
-          Text("Chat Screen")
+          Text("Daniela's Chat")
         ]),
         centerTitle: false,
       ),
